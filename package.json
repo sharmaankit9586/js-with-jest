@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest ./__test__",
+    "test": "jest --watch ./__test__",
     "dev": "nodemon index.js"
   },
   "keywords": [],
